@@ -20,9 +20,25 @@ Directory Bookmarks for BASH (c) 2009, Ira Chayut, Version 090927
 
 # Modified Works
 
-dirB.sh is the product of Craig Walker, a modified version of the original dirb.sh and given the **GNU GENERAL PUBLIC LICENSE  Version 3, 29 June 2007**
+dirB.sh is the product of Craig Walker, a modified version of the original
+ dirb.sh and given the **GNU GENERAL PUBLIC LICENSE  Version 3, 29 June 2007**
 
+# usage
+
+put the file .dirB.sh in your /home/$USER directory.  Source the file or make
+it permanent by adding the following to your $HOME/.bashrc file:
+```
+#where $HOME usually = /home/$USER
+. $HOME/.dirB.sh
+#or
+source $HOME/.dirB.sh
+```
 # help
+after sourcing from above instructions:
+```
+h         print the following help message below
+```
+
 ```
 OPERATIONS
   s       Save a directory bookmark
