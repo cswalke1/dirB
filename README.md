@@ -1,5 +1,5 @@
 # dirB
-directory bookmarks on the bash Linux command line.  an implementation of icyfork/dirb
+directory bookmarks on the bash Linux command line with tab completion.  an implementation of icyfork/dirb
 
 # Original LICENSE
 
