@@ -63,6 +63,7 @@ OPERATIONS
   r       remove saved bookmark
   d       display bookmarked directory path
   sl      print the list of directory bookmarks
+  h       print this help message
 EXAMPLES
   s xyz                  current directory is saved as xyz
   s xyz ../../dir0/dir1  save relative directory as xyz
